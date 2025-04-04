@@ -1,0 +1,23 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "mintlify docs",
+  "homepage": "https://github.com/chriseugenerodriguez/mintlify-docs#readme",
+  "bugs": {
+    "url": "https://github.com/chriseugenerodriguez/mintlify-docs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriseugenerodriguez/mintlify-docs.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "mintlify dev"
+  },
+  "devDependencies": {
+    "mintlify": "^4.0.464"
+  }
+}
